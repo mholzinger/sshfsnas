@@ -1,0 +1,15 @@
+{
+  "nas":
+  [
+    {
+      "host" : "10.1.2.3",
+      "local" : "Share/",
+      "remote" : "/Volumes/Share/"
+    },
+    {
+      "host" : "10.1.2.3",
+      "local" : "USB_DISK/",
+      "remote" : "/Volumes/USB\\ Disk/"
+    }
+  ]
+}
